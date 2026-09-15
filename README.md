@@ -90,25 +90,6 @@ I'm a B.Tech Electrical Engineering student passionate about **software developm
 ---
 
 
-## 📚 Currently Learning
-
-```text
-Django & REST APIs
-PostgreSQL
-React
-YOLO & Computer Vision
-DSA with Python
-SQL
-```
-
----
-
-
-## 📫 Contact
-
-📧 **[sanjitghosh6717@gmail.com](mailto:sanjitghosh6717@gmail.com)**
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
