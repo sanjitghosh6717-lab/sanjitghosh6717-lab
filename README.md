@@ -89,33 +89,6 @@ I'm a B.Tech Electrical Engineering student passionate about **software developm
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 Library Management System
-
-A full-stack library management application built with **Django, PostgreSQL and React**.
-
-**Tech:** `Python` `Django` `PostgreSQL` `React` `REST API`
-
----
-
-### 🤖 AI Chat Application
-
-An AI-powered chat application developed using **Django and React**.
-
-**Tech:** `Python` `Django` `React` `REST API`
-
----
-
-### 👁️ YOLO Object Detection
-
-A computer vision project using **YOLO** to detect objects from images and videos.
-
-**Tech:** `Python` `YOLO` `OpenCV`
-
-Currently working on processing detection results and storing object information for further analysis.
-
----
 
 ## 📚 Currently Learning
 
@@ -130,16 +103,6 @@ SQL
 
 ---
 
-## 🎯 2026–2027 Goals
-
-* 🚀 Become a strong **Django Full-Stack Developer**
-* 🗄️ Improve PostgreSQL and database design skills
-* 🤖 Build more practical Computer Vision projects
-* 🧠 Improve DSA and problem-solving
-* 💼 Prepare for software development opportunities
-* 📂 Build and maintain production-quality GitHub projects
-
----
 
 ## 📫 Contact
 
